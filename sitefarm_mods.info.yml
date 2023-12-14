@@ -1,0 +1,18 @@
+name: SiteFarm Mods
+type: module
+description: 'A fast and feature-rich Drupal base module.  Split from the profile'
+# version: VERSION
+core_version_requirement: ^8.8 || ^9 || ^10
+
+dependencies:
+# SiteFarm
+#  - sitefarm_core
+# - sitefarm_person
+# - sitefarm_event
+# - sitefarm_simple_configuration
+#  SiteFarm custom blocks
+# - sitefarm_basic_block
+# - sitefarm_focal_link
+# - sitefarm_focus_box
+# - sitefarm_hero_banner
+

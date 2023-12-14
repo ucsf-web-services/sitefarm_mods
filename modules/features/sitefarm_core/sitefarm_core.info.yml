@@ -1,0 +1,25 @@
+name: Core
+description: 'Provides core components required by other features.'
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - address
+  - block_content
+  - field
+  - file
+  - image
+  - link
+  - lock_sitefarm_features
+  - metatag
+  - node
+  - options
+  - path
+  - pathauto
+  - sharemessage
+  - sitemap
+  - taxonomy
+  - telephone
+  - text
+  - views
+  - roleassign
+package: SiteFarm

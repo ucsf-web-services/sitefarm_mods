@@ -1,0 +1,15 @@
+name: WYSIWYG
+description: 'A WYSIWYG Editor config for CKEditor'
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - ck_media_link
+  - ckeditor
+  - editor
+  - editor_file
+  - filter
+  - url_embed
+package: SiteFarm
+
+libraries:
+  - sitefarm_wysiwyg.ckeditor

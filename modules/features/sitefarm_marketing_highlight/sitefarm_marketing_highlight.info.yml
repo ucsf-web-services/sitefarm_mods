@@ -1,0 +1,13 @@
+name: 'Marketing Highlight'
+description: 'Custom Block for the Marketing Highlight component.'
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - block_content
+  - field
+  - focal_point
+  - image
+  - link
+  - sitefarm_core
+  - sitefarm_image_styles
+package: SiteFarm
